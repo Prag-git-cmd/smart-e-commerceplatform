@@ -1,0 +1,6 @@
+{
+  "name": "Java + Maven DevContainer",
+  "build": {
+    "dockerfile": "Dockerfile"
+  }
+}
