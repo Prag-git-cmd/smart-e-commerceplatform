@@ -1,2 +1,2 @@
 # smart-e-commerceplatform
-A Smart E-Commerce Platform built with Core and Advanced Java, offering hands-on learning through a real-world shopping simulation. It includes an intelligent product recommendation engine to help developers master advanced Java and modern backend design.
+This project is a comprehensive Smart E-Commerce Platform developed using both Core and Advanced Java. It is designed to provide an in-depth, practical learning experience. The system models a real-world online shopping environment and includes an intelligent product recommendation engine, enabling developers to dive into advanced Java concepts and modern backend architecture.
